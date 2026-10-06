@@ -1,7 +1,0 @@
-{
-    "name": "@vxt-wine-widgets/office-widget-wine",
-    "version": "2.1.3",
-    "main": "dist/widget/index.js",
-    "license": "Samsung",
-    "files": ["dist"]
-}

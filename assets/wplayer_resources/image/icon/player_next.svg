@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>ic_solid/player_next</title>
-    <g id="ic_solid/player_next" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M15.248,7 C14.833,7 14.498,7.336 14.498,7.75 L14.498,11.325 C14.484,11.315 14.476,11.304 14.462,11.295 L9.206,7.403 C9.05,7.302 8.888,7.25 8.726,7.25 C8.365,7.25 8.002,7.528 8.002,8.06 L8.002,15.94 C8.002,16.472 8.365,16.75 8.726,16.75 C8.888,16.75 9.049,16.699 9.206,16.597 L14.462,12.704 C14.476,12.695 14.484,12.684 14.498,12.675 L14.498,16.25 C14.498,16.664 14.833,17 15.248,17 C15.662,17 15.998,16.664 15.998,16.25 L15.998,7.75 C15.998,7.336 15.662,7 15.248,7" id="Next" fill="#000000" fill-rule="nonzero"></path>
-    </g>
-</svg>

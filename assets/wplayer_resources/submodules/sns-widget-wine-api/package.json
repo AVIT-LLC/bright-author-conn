@@ -1,7 +1,0 @@
-{
-    "name": "@vxt-wine-widgets/sns-widget-wine-api",
-    "version": "0.1.15",
-    "main": "dist/widget/index.umd.js",
-    "license": "SEE LICENSE IN LICENSE.md",
-    "files": ["dist/**/*"]
-}

@@ -1,9 +1,0 @@
-{
-    "name": "@supernova/sns-widget-dist",
-    "version": "0.9.47",
-    "main": "dist/index.umd.js",
-    "license": "Samsung",
-    "files": [
-        "dist"
-    ]
-}
