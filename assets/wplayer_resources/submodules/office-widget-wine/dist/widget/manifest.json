@@ -1,0 +1,14 @@
+{
+    "VX_SID_CMS_CCAUG_STYLE": [
+        {
+            "type": "number",
+            "id": "slideTime",
+            "value": "5",
+            "min": "1",
+            "max": "999",
+            "caption": "VX_SID_CMS_CDAUG_PAGE_INTERVAL",
+            "size": "small",
+            "units": "COM_SID_SEC"
+        }
+    ]
+}

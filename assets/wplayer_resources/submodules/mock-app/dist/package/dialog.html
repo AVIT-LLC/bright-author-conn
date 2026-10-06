@@ -1,0 +1,21 @@
+
+<html>
+    <head>
+        <script>
+            function submit() {
+                localStorage.setItem('buttonUrlDialog', 'test value')
+            }
+
+            function cancel() {
+                localStorage.setItem('buttonUrlDialog', 'close')
+            }
+        </script>
+    </head>
+    <body>
+        <h1>Dialog - with response</h1>
+        <p>submit sets localstorage value to 'test value'</p>
+        <p>cancel sets localstorage value to 'close'</p>
+        <button onclick="submit()">Submit</button>
+        <button onclick="cancel()">Cancel</button>
+    </body>
+</html>

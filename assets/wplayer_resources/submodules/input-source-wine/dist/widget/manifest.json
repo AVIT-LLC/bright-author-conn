@@ -1,0 +1,28 @@
+{
+    "VX_SID_CMS_CCAUG_STYLE": [
+        {
+            "type": "radio",
+            "id": "radioSelectInputSource",
+            "caption": "COM_SID_SOURCE_KR_EXT",
+            "list": [
+                "VX_SID_CMS_CDAUG_TV",
+                "VX_SID_CMS_CDAUG_HDMI1",
+                "VX_SID_CMS_CDAUG_HDMI2",
+                "VX_SID_CMS_CDAUG_HDMI3",
+                "VX_SID_CMS_CDAUG_HDMI4",
+                "VX_SID_CMS_CDAUG_DP_DISPLAY_PORT"
+            ],
+            "value": "VX_SID_CMS_CDAUG_HDMI1",
+            "size": "medium",
+            "position": "left"
+        },
+        {
+            "type": "capabilities",
+            "id": "capabilities",
+            "video": {
+                "mute": false,
+                "contentName": "TV/HDMI"
+            }
+        }
+    ]
+}

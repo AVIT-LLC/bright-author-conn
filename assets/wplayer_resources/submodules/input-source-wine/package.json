@@ -1,0 +1,7 @@
+{
+    "name": "@vxt-wine-widgets/input-source-wine",
+    "version": "1.0.12",
+    "main": "dist/widget/index.js",
+    "license": "Samsung",
+    "files": ["dist"]
+}

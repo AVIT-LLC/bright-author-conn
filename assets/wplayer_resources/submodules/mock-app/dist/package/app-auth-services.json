@@ -1,0 +1,24 @@
+[
+    {
+        "service": "Service 1",
+        "authData": "Data 1"
+    },
+    {
+        "service": "Service 2",
+        "authData": "Data 2",
+        "description": "Description of service  2",
+        "guide": {
+            "type": "info",
+            "message": "Info for service 2"
+        }
+    },
+    {
+        "service": "Service 3",
+        "authData": "Data 3",
+        "status": "disconnected",
+        "guide": {
+            "type": "error",
+            "message": "Error for service 3"
+        }
+    }
+]

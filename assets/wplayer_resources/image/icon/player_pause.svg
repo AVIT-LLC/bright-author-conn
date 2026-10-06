@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_solid/player_pause</title>
+    <g id="ic_solid/player_pause" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(6.750000, 4.500000)" fill="#000000">
+            <path d="M0,13.4754026 L0,1.52570542 C0,0.68363126 0.671511628,0 1.5,0 C2.32848837,0 3,0.68363126 3,1.52570542 L3,13.4754026 C3,14.3174767 2.32848837,15 1.5,15 C0.671511628,15 0,14.3174767 0,13.4754026 Z" id="Fill-1"></path>
+            <path d="M7.5,13.4754026 L7.5,1.52570542 C7.5,0.68363126 8.17158484,0 9.00016354,0 C9.82874223,0 10.5003271,0.68363126 10.5003271,1.52570542 L10.5003271,13.4754026 C10.5003271,14.3174767 9.82874223,15 9.00016354,15 C8.17158484,15 7.5,14.3174767 7.5,13.4754026 Z" id="Fill-3"></path>
+        </g>
+    </g>
+</svg>
